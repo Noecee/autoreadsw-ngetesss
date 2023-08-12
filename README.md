@@ -1,0 +1,2 @@
+# autoreadsw
+SC g guna
