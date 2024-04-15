@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "@adiwajshing/baileys": "npm:baileysv3"
+    "@adiwajshing/baileys": "npm:@whiskeysockets/baileys@latest"
   }
 }
